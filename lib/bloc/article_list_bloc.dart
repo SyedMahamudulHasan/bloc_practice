@@ -17,6 +17,7 @@ class ArticleListBloc implements Bloc {
 
   @override
   void dispose() {
+    _searchQueryController.close();
     // TODO: implement dispose
   }
 }
