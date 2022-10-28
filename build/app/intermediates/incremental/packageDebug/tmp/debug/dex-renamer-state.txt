@@ -1,0 +1,4 @@
+#Fri Oct 28 17:01:50 BDT 2022
+base.0=/home/omedia/Downloads/Compressed/article_finder-4/article_finder/starter/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
